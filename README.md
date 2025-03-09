@@ -1,2 +1,4 @@
 # UC-Berkley-AI-Pacman-Ghostbusters
-Implementation of UC Berkley's AI Course's Ghostbusters Project
+Link of project: https://ai.berkeley.edu/tracking.html
+
+I implemented the features in the project which focuses exact inference, approximate inference, and joint particle filters in the context of AI
